@@ -56,4 +56,12 @@ Com esta análise, cheguei nas seguintes conclusões:<br>
 <a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio/tree/main/POWERBI" target="_blank">Clique aqui</a> e acesse o arquivo.pbix no Github.
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMzYxMzgwNTQtYTMwNi00ODVkLWJkYzMtMDQyNDI4NjQ3OTA0IiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
-<br><br>
+<br>
+
+<br><br><br><br><br><br>
+
+## Ferramentas e linguagens utilizadas
+<div style="display: inline_block">
+    <img align="center" alt="SQL" height="40" width="40" src="https://github.com/FellipeSantanac/ferramentas/blob/main/logo.png?raw=true">
+    <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/FellipeSantanac/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+</div>
