@@ -52,7 +52,7 @@ Com esta análise, cheguei nas seguintes conclusões:<br>
  - Além da quantidade de vendas e clientes novos, a receita trazida por vendas e clientes novos também é a maior fatia do total.<br>
  - Por isso o Power BI é uma ferramenta de extrema importância, pois permite o usuário final fazer seus filtros e ter análises de forma dinâmica.
 <br><br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMzYxMzgwNTQtYTMwNi00ODVkLWJkYzMtMDQyNDI4NjQ3OTA0IiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio/tree/main/POWERBI" target="_blank">Clique aqui</a> e acesse o arquivo.pbix no Github.
 <br>
-<a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio/tree/main/POWERBI" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzYxMzgwNTQtYTMwNi00ODVkLWJkYzMtMDQyNDI4NjQ3OTA0IiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 <br><br>
