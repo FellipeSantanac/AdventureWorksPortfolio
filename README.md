@@ -27,13 +27,14 @@ Com os dados agrupados, tive os seguintes cálculos simples para dar continuidad
 <br>
 <a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio/blob/main/SQL/AdventureWorks%20-%20Vendas.sql" target="_blank">Clique aqui</a> e acesse o script SQL no Github.
 <br><br>
-Analisando a variação de vendas entre períodos, é possível identificar em 2013, um crescimento anual muito acima da variação de 2011, tanto 2012, sendo necessário aprofundar a análise e identificar de onde está vindo este grande crescimento de vendas.
-Com essa análise, deu para endenter que os Estados Unidos tiverem grande crescimento no ano de 2013 em relação aos outros paises, que por sua vez também tiverem aumentos significativos.
-- Como análisado os Estados Unidos tiverem um crescimento em 2013 em relação a 2012 uma evolução de vendas em 270%, o que consequentemente aumentou a quantidade de clientes passando de 863 em 2012 para 7119 clientes em 2013.
-- Segundo da Australia que até em 2012 tinha os melhores resultados em relação a números de vendas e clientes (nos anos 2011 e 2012), que em 2013 com uma evolução de vendas em 107%, o que atingiu a quantidade de 3500 clientes em 2013, que em 2012 obteve 1111 clientes.
-- E por fim destacando os demais paises envolvidos com aumento de números de vendas e de clientes nos anos posteriores.
 
-<br><br>
+## Análise final
+Analisando a variação de vendas entre períodos, é possível identificar em 2013, um crescimento anual muito acima da variação de 2011, tanto 2012, sendo necessário aprofundar a análise e identificar de onde está vindo este grande crescimento de vendas.<br>
+Com essa análise, deu para endenter que os Estados Unidos tiverem grande crescimento no ano de 2013 em relação aos outros paises, que por sua vez também tiverem aumentos significativos.<br>
+- Como análisado os Estados Unidos tiverem um crescimento em 2013 em relação a 2012 uma evolução em vendas de 270%, com 1461 mil em vendas no ano de 2012 passando para 5409 mil no ano de 2013, o que consequentemente aumentou a quantidade de clientes passando de 863 em 2012 para 7119 clientes em 2013.<br>
+- Segundo da Australia que até em 2012 tinha os melhores resultados em relação a números de vendas e clientes (nos anos 2011 e 2012), que em 2013 com uma evolução de vendas em 107%, com 2101 mil em vendas no ano de 2012 passando para 4351 mil no ano de 2013, o que o fez atingir a quantidade de 3500 clientes em 2013, que em 2012 obteve 1111 clientes.<br>
+- E por fim destacando os demais paises envolvidos com aumento de números de vendas e de clientes nos anos posteriores.
+<br>
 
 ## Conclusão técnica SQL
 Com o SQL, podemos analisar, extrair, manipular e exibir os dados de uma base de dados de uma forma simples e rápida, apenas conectando direto na fonte dos dados. Porém, não é uma ferramenta dinâmica em com abordagem visual, pois cada vez que precisa ver os dados de uma forma diferente, precisa reescrever o comando SQL para extrair os dados da forma que gostaria, porém os dados sempre serão exibidos em formato de tabela, deixando uma análise menos dinâmica do que um dashboard, por exemplo.
@@ -41,7 +42,7 @@ Com o SQL, podemos analisar, extrair, manipular e exibir os dados de uma base de
 A minha conclusão é que o SQL é sempre uma linguagem muito importante e deve ser utilizada para analisar um banco de dados antes de escolher outra ferramenta para análise dos dados, como o Power BI por exemplo. Ou seja, valide as informações no SQL e só depois considere outras ferramentas de acordo com a necessidade da empresa ou projeto que estiver atuando.
 Não existe uma ferramenta melhor que a outra, existe ferramentas adequadas as necessidades apresentadas em cada projeto de dados.
 
-<br><br>
+<br>
 
 ## Dashboard Power BI
 <img align="right" width="500"  src="https://github.com/FellipeSantanac/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202025-02-04%20163540.png?raw=true">
