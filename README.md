@@ -42,3 +42,17 @@ A minha conclusão é que o SQL é sempre uma linguagem muito importante e deve 
 Não existe uma ferramenta melhor que a outra, existe ferramentas adequadas as necessidades apresentadas em cada projeto de dados.
 
 <br><br>
+
+## Dashboard Power BI
+<img align="right" width="500"  src="https://github.com/FellipeSantanac/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202025-02-04%20163540.png?raw=true">
+Seguindo a idéia que SQL não é a melhor ferramenta para uma análise dinâmica e visual de informações, desenvolvi um dashboard focado na análise das vendas da mesma base de dados AdventureWorks.
+Como o Power BI permite análises dinâmicas e visuais de forma simples, escrevendo menos código DAX e permitindo o usuário total interação com a ferramenta, fiz uma análise exploratória na quantidade de vendas, clientes por país.<br>
+Com esta análise, cheguei nas seguintes conclusões:<br>
+ - A maioria das vendas e clientes a partir de 2013 são novos. <br>
+ - Além da quantidade de vendas e clientes novos, a receita trazida por vendas e clientes novos também é a maior fatia do total.<br>
+ - Por isso o Power BI é uma ferramenta de extrema importância, pois permite o usuário final fazer seus filtros e ter análises de forma dinâmica.
+<br><br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzYxMzgwNTQtYTMwNi00ODVkLWJkYzMtMDQyNDI4NjQ3OTA0IiwidCI6IjBiYWJiODgwLTRhMmUtNGNhZS05ZmNiLTU1ZjU2YzJlNzMxOCJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<br>
+<a href="https://github.com/FellipeSantanac/AdventureWorksPortfolio/tree/main/POWERBI" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
+<br><br>
